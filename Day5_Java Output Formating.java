@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java output formating{
+public class java_output_formating{
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
